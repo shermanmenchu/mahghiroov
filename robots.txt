@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://koomahbola.isf.hu/sitemap.xml
